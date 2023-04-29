@@ -1,0 +1,9 @@
+[submodule "sescca_prototipo"]
+	path = sescca_prototipo
+	url = https://github.com/jsebas96/sescca
+[submodule "sescca_web"]
+	path = sescca_web
+	url = https://github.com/jsebas96/sescca_web/
+[submodule "sescca_tablero"]
+	path = sescca_tablero
+	url = https://github.com/jsebas96/sescca_interface
